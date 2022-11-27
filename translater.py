@@ -22,8 +22,3 @@ class RuEnTranslater:
     def __str__(self) -> str:
         # return self.current_text
         return self.result
-
-
-# language = input('to english (eng) or to russian (рус)? ')
-# text = input('Введите текст для перевода: ')
-# print(RuEnTranslater(text))
